@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SalesTax:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SalesTax_jar</output-path>
+    <root id="archive" name="SalesTax.jar">
+      <element id="module-output" name="SalesTax" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.6-bin/commons-lang3-3.6/commons-lang3-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
